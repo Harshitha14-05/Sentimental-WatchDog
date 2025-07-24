@@ -105,7 +105,7 @@ sentimental-watchdog/
 
 1. **Clone the repository**
    ```bash
-   git clone https://
+   git clone https://github.com/Harshitha14-05/Sentimental-WatchDog.git
    cd sentimental-watchdog
 ## Install dependencies
 pip install -r requirements.txt
